@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>sajidmk's Wiki </title>
+    </head>
+    <style> 
+        #hi {font-family:comic sans ms ; color: rgb(7, 206, 237); }
+       #hello{font-family: arial;color: rgb(255, 140, 0); }
+       .size{font-family:planet benson two;color:rgb(5, 90, 247); }
+    </style>
+    <body>
+    <h1 id="hi">sajidmk.github.io Wiki </h1>
+    <h2 id="hello">Created on 2019-02-20 9:00 PM.<br>This was a testing site  </h2>
+    
+    </body>
+</html>
